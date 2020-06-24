@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="nacimiento">Fecha de Nacimiento</string>
+    <string name="b_nacimiento">Click Fecha</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion del Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="cdatos">CONFIRMAR DATOS</string>
+    <string name="bregreso">Editar Datos</string>
+
+</resources>
